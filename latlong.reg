@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.heic\Shell\getlatlon]
+@="Get Lat/Lon"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.heic\Shell\getlatlon\command]
+@="C:\\Users\\John Davidson\\Documents\\scripts\\latlong.bat \"%1\""
